@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0eb24bde-83f4-4b0b-984c-1813683a1c47}">
+		<property name="assetPath">
+			<value>BGM_Battle_02.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>180.06204081632654</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7ca6628b-f261-4aae-9e93-d76807374b97}</destination>
+		</relationship>
+	</object>
+</objects>

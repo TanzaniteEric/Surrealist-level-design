@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cac26c5bfdb3d674581088326a4c4a9f, type: 3}
+  m_Name: GoodEnding
+  m_EditorClassIdentifier: 
+  dialogueBeforeWave:
+  - speaker: 2
+    line: Go ahead, child. Chase your dreams and leave no regrets.
+  - speaker: 2
+    line: "Keep your duty in mind, but don\u2019t lose your passion. For you and
+      for me."
+  - speaker: 1
+    line: "Take care. Remember we\u2019re always here for you, no matter where life
+      takes you.\r"
+  - speaker: 3
+    line: I will miss you, but I want you to be happy. You must tell me stories when
+      you come back!
+  - speaker: 0
+    line: I'll miss you more than words can say, my little sister!
+  - speaker: 0
+    line: 'Mom and Dad, thank you, your support means everything to me. '
+  - speaker: 0
+    line: I'll carry your love with me wherever I go. I love you.
+  playerReplyRed:
+  - speaker: 0
+    line: I'll miss you more than words can say, my little sister!
+  - speaker: 0
+    line: Mom and Dad, thank you, your support means everything to me.
+  - speaker: 0
+    line: 'I''ll carry your love with me wherever I go. I love you. '
+  playerReplyBlue:
+  - speaker: 0
+    line: I'll miss you more than words can say, my little sister!
+  - speaker: 0
+    line: Mom and Dad, thank you, your support means everything to me.
+  - speaker: 0
+    line: 'I''ll carry your love with me wherever I go. I love you. '

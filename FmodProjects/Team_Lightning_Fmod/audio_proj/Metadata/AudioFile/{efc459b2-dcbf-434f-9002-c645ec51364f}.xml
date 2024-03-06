@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{efc459b2-dcbf-434f-9002-c645ec51364f}">
+		<property name="assetPath">
+			<value>Talking_Dad.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>24.384</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7ca6628b-f261-4aae-9e93-d76807374b97}</destination>
+		</relationship>
+	</object>
+</objects>

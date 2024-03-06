@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4436d23f-df72-4757-83b4-b059932726da}">
+		<property name="assetPath">
+			<value>Heal_Travel.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.5450566893424038</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7ca6628b-f261-4aae-9e93-d76807374b97}</destination>
+		</relationship>
+	</object>
+</objects>

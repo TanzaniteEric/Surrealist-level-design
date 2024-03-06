@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4d31c5dd-b4dc-4dfa-b6f1-2070513091b6}">
+		<property name="assetPath">
+			<value>BGM_Bad_01.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>20.06204081632653</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7ca6628b-f261-4aae-9e93-d76807374b97}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cac26c5bfdb3d674581088326a4c4a9f, type: 3}
+  m_Name: FillerDialogue 2
+  m_EditorClassIdentifier: 
+  dialogueBeforeWave:
+  - speaker: 1
+    line: You are too impulsive! Now turn back! Go home!
+  playerReplyRed:
+  - speaker: 0
+    line: "No one ever asked whether I like making potions or not! No one cares!\r"
+  playerReplyBlue:
+  - speaker: 0
+    line: "You know I can take care of myself, just like how I take care of my little
+      sister. Don\u2019t worry."
